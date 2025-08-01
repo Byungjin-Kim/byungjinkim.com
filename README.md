@@ -24,18 +24,11 @@ This site brings together my diverse body of work — from electroacoustic compo
 - 📖 **About Me**  
   A brief overview of my background in music, software development, and my academic goals.
 
-## 🛠️ Technologies I Use
-
-- **Frontend**: React, Vite, TypeScript, HTML, CSS  
-- **Backend**: Node.js, Express  
-- **Audio & Music**: Logic Pro, Pro Tools, GRM Tools, Sibelius, Finale  
-- **Tools**: GitHub, Vercel, VS Code, Figma
-
 ## 💬 Get in Touch
 
 📧 Email: composerjins@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/byungjinkim/)  
-💻 [GitHub](https://github.com/your-github-username)
+💻 [GitHub](https://github.com/Byungjin-Kim)
 
 ---
 
