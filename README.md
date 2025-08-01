@@ -1,69 +1,42 @@
-# React + TypeScript + Vite
+# byungjinkim.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎼 Composer | 🎧 Sound Artist | 💻 Software Developer | 🧠 Product Thinker
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to my personal portfolio — a space where music and technology converge.
 
-## Expanding the ESLint configuration
+I’m Byungjin Kim, a composer and sound artist with over two decades of experience in music creation, performance, and education. Alongside my artistic work, I am also a trained software developer and aspiring product thinker, passionate about designing interactive tools and experiences that amplify human creativity.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+This site brings together my diverse body of work — from electroacoustic compositions and choral pieces to web-based audio applications and creative coding projects. It reflects my ongoing journey to explore hybrid forms of artistic expression through sound, design, and technology.
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🔍 What You’ll Find Here
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+- 🎶 **Music Works**  
+  A curated archive of my original compositions, performance videos, sound art, and notation samples.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- 🌐 **Interactive Projects**  
+  Full-stack web applications and experimental tools using React, TypeScript, Node.js, and Web Audio.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+- 💡 **Research & Explorations**  
+  Thoughts and prototypes on music technology, sound design, and user-centered creative tools.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- 📖 **About Me**  
+  A brief overview of my background in music, software development, and my academic goals.
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 🛠️ Technologies I Use
+
+- **Frontend**: React, Vite, TypeScript, HTML, CSS  
+- **Backend**: Node.js, Express  
+- **Audio & Music**: Logic Pro, Pro Tools, GRM Tools, Sibelius, Finale  
+- **Tools**: GitHub, Vercel, VS Code, Figma
+
+## 💬 Get in Touch
+
+📧 Email: composerjins@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/byungjinkim/)  
+💻 [GitHub](https://github.com/your-github-username)
+
+---
+
+Thanks for visiting!
