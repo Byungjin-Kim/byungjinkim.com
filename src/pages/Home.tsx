@@ -1,8 +1,14 @@
 import React from 'react';
 
 const Home: React.FC = () => {
-    return <h1>Welcome</h1>
-    //need short intro message.
+    return (
+        <div>
+            <h1>Byungjin Kim</h1>
+            <p>
+                Composer • Sound Artist • Software Developer — exploring the synergy between music and technology
+            </p>
+        </div>
+    );
 };
 
 export default Home;
